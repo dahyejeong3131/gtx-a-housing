@@ -1,0 +1,5 @@
+sample,station,wald_stat,p_value,n_pre_coefs
+Sale (brokered),Yeonsinnae,3.955977453341819,4.572840123664648e-4,7
+Sale (brokered),Unjeong,2.952057985864264,0.013974214368664667,7
+Jeonse (new),Yeonsinnae,6.671200986601586,3.9112528532947277e-7,7
+Jeonse (new),Unjeong,1.8280276183056685,0.10510562180178752,7

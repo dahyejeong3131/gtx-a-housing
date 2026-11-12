@@ -1,0 +1,12 @@
+data,step,rows,extraction_date
+sale,1 raw records,28694,2026-11-12
+sale,2 drop cancelled deals,27254,2026-11-12
+sale,3 drop invalid date/price/area,27254,2026-11-12
+sale,4 keep contracts through 2026-09,26569,2026-11-12
+sale,"5 drop exact duplicates (same building, floor, area, price, date)",26187,2026-11-12
+sale,6 brokered only (main specification),24484,2026-11-12
+jeonse,1 raw lease records,131005,2026-11-12
+jeonse,2 pure jeonse (monthly rent = 0),61027,2026-11-12
+jeonse,3 drop invalid date/deposit/area,61027,2026-11-12
+jeonse,4 keep contracts through 2026-09,60100,2026-11-12
+jeonse,5 new contracts only (main specification),34025,2026-11-12
